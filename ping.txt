@@ -52,3 +52,4 @@ https://icoprice.my.id/robots.txt
 https://ar.icoprice.my.id/robots.txt
 https://blackdiscount.my.id/robots.txt
 https://ar.blackdiscount.my.id/robots.txt
+https://discount-aliexpress.my.id/robots.txt
