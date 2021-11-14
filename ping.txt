@@ -46,3 +46,4 @@ https://today.net-discount.my.id/robots.txt
 https://tr.prem-store.my.id/robots.txt
 https://geshop.pw/robots.txt
 https://vi.evoucher-aliexpress.my.id/robots.txt
+https://ar.gobigsale.my.id/robots.txt
