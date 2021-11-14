@@ -48,3 +48,4 @@ https://geshop.pw/robots.txt
 https://vi.evoucher-aliexpress.my.id/robots.txt
 https://ar.gobigsale.my.id/robots.txt
 https://gobigsale.my.id/robots.txt
+https://icoprice.my.id/robots.txt
