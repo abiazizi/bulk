@@ -49,3 +49,6 @@ https://vi.evoucher-aliexpress.my.id/robots.txt
 https://ar.gobigsale.my.id/robots.txt
 https://gobigsale.my.id/robots.txt
 https://icoprice.my.id/robots.txt
+https://ar.icoprice.my.id/robots.txt
+https://blackdiscount.my.id/robots.txt
+https://ar.blackdiscount.my.id/robots.txt
