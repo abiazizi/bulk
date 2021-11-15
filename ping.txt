@@ -57,3 +57,4 @@ https://pt.bingoshop.buzz/robots.txt
 https://ru.super-bigsale.my.id/robots.txt
 https://siakad.stiemahardhika.ac.id/robots.txt
 https://pt.couponations.my.id/robots.txt
+https://vi.net-discount.my.id/robots.txt
