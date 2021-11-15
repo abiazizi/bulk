@@ -54,3 +54,4 @@ https://blackdiscount.my.id/robots.txt
 https://ar.blackdiscount.my.id/robots.txt
 https://discount-aliexpress.my.id/robots.txt
 https://pt.bingoshop.buzz/robots.txt
+https://ru.super-bigsale.my.id/robots.txt
