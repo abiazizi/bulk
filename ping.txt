@@ -59,3 +59,4 @@ https://siakad.stiemahardhika.ac.id/robots.txt
 https://pt.couponations.my.id/robots.txt
 https://vi.net-discount.my.id/robots.txt
 https://www.teleshop.mk/robots.txt
+https://queirozeandrade.com.br/robots.txt
