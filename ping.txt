@@ -1,3 +1,4 @@
+https://indsuite.co/robots.txt
 https://bestoffer.prem-store.my.id/robots.txt
 https://ru.gobigsale.my.id/robots.txt
 https://bestoffer.blackdiscount.my.id/robots.txt
