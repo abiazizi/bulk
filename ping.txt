@@ -1,3 +1,4 @@
+https://ar.indsuite.co/robots.txt
 https://iq301.my.id/robots.txt
 https://iq234.my.id/robots.txt
 https://de.geshop.pw/robots.txt
