@@ -11,3 +11,9 @@ https://knowledges.live/host-https-www.geeksforgeeks.org/sitemap_index.xml
 https://knowledges.live/host-https-www.tutorialspoint.com/tp.xml
 https://knowledges.live/host-https-www.tutorialspoint.com/tp1.xml
 https://knowledges.live/host-https-www.auto-data.net/sitemap.xml
+https://knowledges.live/host-https-www.ultimatespecs.com/sitemap10000.xml
+https://knowledges.live/host-https-www.ultimatespecs.com/sitemap20000.xml
+https://knowledges.live/host-https-www.ultimatespecs.com/sitemap30000.xml
+https://knowledges.live/host-https-www.ultimatespecs.com/sitemap40000.xml
+https://knowledges.live/host-https-www.ultimatespecs.com/sitemap-bikes10000.xml
+https://knowledges.live/host-https-www.ultimatespecs.com/sitemap-bikes20000.xml
