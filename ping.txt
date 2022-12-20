@@ -10,3 +10,4 @@ https://knowledges.live/host-https-www.binance.com/sitemap_index.xml
 https://knowledges.live/host-https-www.geeksforgeeks.org/sitemap_index.xml
 https://knowledges.live/host-https-www.tutorialspoint.com/tp.xml
 https://knowledges.live/host-https-www.tutorialspoint.com/tp1.xml
+https://knowledges.live/host-https-www.auto-data.net/sitemap.xml
