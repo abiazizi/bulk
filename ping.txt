@@ -8,3 +8,5 @@ https://knowledges.live/host-https-www.healthline.com/sitemap.xml
 https://knowledges.live/host-https-gamewith.jp/sitemap.xml
 https://knowledges.live/host-https-www.binance.com/sitemap_index.xml
 https://knowledges.live/host-https-www.geeksforgeeks.org/sitemap_index.xml
+https://knowledges.live/host-https-www.tutorialspoint.com/tp.xml
+https://knowledges.live/host-https-www.tutorialspoint.com/tp1.xml
