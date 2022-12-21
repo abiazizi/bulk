@@ -19,3 +19,4 @@ https://knowledges.live/host-https-www.ultimatespecs.com/sitemap-bikes10000.xml
 https://knowledges.live/host-https-www.ultimatespecs.com/sitemap-bikes20000.xml
 https://knowledges.live/host-https-docs.python.org/sitemap.xml
 https://knowledges.live/host-https-yellowimages.com/sitemap.xml
+https://knowledges.live/host-https-www.shutterstock.com/sitemapz/20211116/image-index.xml
